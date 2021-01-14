@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991653000774",
+    "project_id": "flutterlogin-b2b50",
+    "storage_bucket": "flutterlogin-b2b50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991653000774:android:855bd0c1e9010a7dd1fc47",
+        "android_client_info": {
+          "package_name": "com.asad.login_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991653000774-g8eqclo916ki97kpak3u0st9k6fl5jlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg9tXdpTvhOZtjIlGCHfHKRTkTRCabQTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991653000774-g8eqclo916ki97kpak3u0st9k6fl5jlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
